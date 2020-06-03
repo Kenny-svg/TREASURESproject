@@ -1,0 +1,24 @@
+*{
+	box-sizing: border-box;
+	margin: auto;
+}
+.image{	
+    background-image: linear-gradient(rgba(0,0,0,0.4),
+	rgba(0,0,0,0.4)), url(../images/group2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 700px; 
+	margin-top: -200px
+}
+.box{
+	border-bottom: 50px solid blue;
+	border-left:25px solid blue;
+	border-right: 25px solid transparent;
+	height: 200px;
+	width: 50%;
+	position: relative;
+	display: block;
+}
+.mini-nav{
+	display: none;
+}

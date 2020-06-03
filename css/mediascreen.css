@@ -1,0 +1,97 @@
+@media screen and (max-width: 767.98px){
+	body{
+		margin: auto;
+		box-sizing: border-box;
+	}
+	.box-1{
+		top: 30%;
+		width: 70%;
+	}
+	.box-2{
+		position: absolute;
+		left: -83%;
+		top: 365%;
+	}
+	.box-3{
+		position: absolute;
+		left: -183%;
+		width: 65.9%;
+		top: 365%;
+	}
+	.box-4{
+		margin-top: -200px;
+	}
+	#line{
+		position: relative;
+		top: 350px;
+	}
+	.myNav{
+		visibility: hidden;
+	}
+	.pic{
+		margin-top: -200px;
+	}
+	.Mynavbar{
+		cursor: pointer;
+	}
+	.Mynavbar span{
+         position: relative;
+	     height: 1px;
+	     width: 30px;
+	     margin-top: 5px;
+	     display: block;
+	     top: 60px;
+	     z-index: 1;
+	     left: 48%;
+	     background: black;
+	}
+    .display{
+		visibility: visible;
+		backgroud-pi
+	}
+
+	/*
+	#line{
+		position: relative;
+		top: 350px;
+	}
+	.box-4{
+		margin-top: 400px;
+	}
+	.myNav{
+		visibility: hidden;
+	}
+	.pic{
+		margin-top: -200px;
+	}
+	.Mynavbar{
+		cursor: pointer;
+   	}
+	.Mynavbar span{
+         position: relative;
+	     height: 1px;
+	     width: 30px;
+	     margin-top: 5px;
+	     display: block;
+	     top: 60px;
+	     z-index: 1;
+	     left: 48%;
+	     background: black;
+	}
+	.display{
+		visibility: visible;
+		margin-left: -20%;
+	}
+	.smbox{
+		height: 50px;
+		width: 100px;
+		background: grey;
+	}
+	.mini-nav{
+		display: none;
+		height: 300px;
+		width: 10%;
+		background: red;
+	}
+}
+*/
